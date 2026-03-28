@@ -185,7 +185,7 @@ INSERT INTO activities (contact_id, type, notes, activity_date) VALUES
 <img width="1568" height="846" alt="image" src="https://github.com/user-attachments/assets/b1a99285-a4a8-4c13-a041-53bc207dd923" />
 
 
-Ссылка на дашборд: https://datalens.ru/7b1aaw1d8nhmr
+Ссылка на дашборд: https://datalens.yandex/7b1aaw1d8nhmr
 ---
 
 ## Результаты
